@@ -1,3 +1,16 @@
+body {
+    font-size: 100%;
+}
+
 ul{
     list-style-type: none;
+}
+
+a{
+    text-decoration-style: dashed;
+}
+
+#oc-link-ul{
+    font-size: 1.25em;
+    font-weight: bold;
 }
